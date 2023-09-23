@@ -21,7 +21,7 @@ namespace Call_to_Kursovaya
             entity_name = Unit_type.T54;
             sprite  = new Bitmap(Resource1.Tank);
             health = 120;
-            damage = 20;
+            damage = 200;
             range = 140;
             ally = _ally;
             speed = 0.7;
