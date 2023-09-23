@@ -4,6 +4,7 @@
 namespace Call_to_Kursovaya
 {
     public delegate void Spawn(Unit_type entity, int ally, int x, int y);
+    private int a;
     [Serializable]
     public class AI
     {
