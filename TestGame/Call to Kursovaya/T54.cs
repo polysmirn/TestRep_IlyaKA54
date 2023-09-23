@@ -24,7 +24,8 @@ namespace Call_to_Kursovaya
             damage = 200;
             range = 140;
             ally = _ally;
-            speed = 0.7;
+            speed = 0.001;
+
         }
     }
 }
