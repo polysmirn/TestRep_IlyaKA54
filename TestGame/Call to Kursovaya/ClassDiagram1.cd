@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Call_to_Kursovaya.Base" Collapsed="true" HideInheritanceLine="true">
+    <Position X="16" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAEAAAAAAAAAACAAAAAAAAAAAAgAACAA=</HashCode>
+      <FileName>Base.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Call_to_Kursovaya.Form1">
+    <Position X="7.75" Y="0.75" Width="2" />
+    <Members>
+      <Field Name="aboutToolStripMenuItem" Hidden="true" />
+      <Method Name="aboutToolStripMenuItem_Click" Hidden="true" />
+      <Field Name="button1" Hidden="true" />
+      <Field Name="button10" Hidden="true" />
+      <Method Name="button10_Click" Hidden="true" />
+      <Field Name="button11" Hidden="true" />
+      <Method Name="button11_Click" Hidden="true" />
+      <Field Name="button2" Hidden="true" />
+      <Method Name="button2_Click" Hidden="true" />
+      <Field Name="button3" Hidden="true" />
+      <Method Name="button3_Click" Hidden="true" />
+      <Field Name="button4" Hidden="true" />
+      <Method Name="button4_Click" Hidden="true" />
+      <Field Name="button5" Hidden="true" />
+      <Method Name="button5_Click" Hidden="true" />
+      <Field Name="button6" Hidden="true" />
+      <Method Name="button6_Click" Hidden="true" />
+      <Field Name="button7" Hidden="true" />
+      <Method Name="button7_Click" Hidden="true" />
+      <Field Name="button8" Hidden="true" />
+      <Method Name="button8_Click" Hidden="true" />
+      <Field Name="button9" Hidden="true" />
+      <Method Name="button9_Click" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="Form1_Load" Hidden="true" />
+      <Method Name="Form1_MouseClick" Hidden="true" />
+      <Method Name="Form1_Paint" Hidden="true" />
+      <Method Name="Form1_Resize" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="menuStrip1" Hidden="true" />
+      <Field Name="rulesToolStripMenuItem" Hidden="true" />
+      <Method Name="rulesToolStripMenuItem_Click" Hidden="true" />
+      <Field Name="timer1" Hidden="true" />
+      <Field Name="авторToolStripMenuItem" Hidden="true" />
+      <Method Name="авторToolStripMenuItem_Click" Hidden="true" />
+      <Field Name="армияToolStripMenuItem" Hidden="true" />
+      <Method Name="армияToolStripMenuItem_Click" Hidden="true" />
+      <Field Name="глоссарийToolStripMenuItem" Hidden="true" />
+      <Method Name="глоссарийToolStripMenuItem_Click" Hidden="true" />
+      <Field Name="постройкиToolStripMenuItem" Hidden="true" />
+      <Method Name="постройкиToolStripMenuItem_Click" Hidden="true" />
+    </Members>
+    <NestedTypes>
+      <Delegate Name="Call_to_Kursovaya.Form1.Action" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Form1.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="Call_to_Kursovaya.Form1.Draw" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Form1.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="Call_to_Kursovaya.Form1.Delete" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Form1.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>ESQg9ECHATABAtEBIoCGABBDAMw7gQAo6HQPgIIJcIA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Call_to_Kursovaya.Entity">
+    <Position X="12" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAIAACAAQAIAkAABBBAAAAACRAAAABAAAFgAgIACAg=</HashCode>
+      <FileName>Entity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Call_to_Kursovaya.Cell">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAEAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Call_to_Kursovaya.Bank" Collapsed="true" HideInheritanceLine="true">
+    <Position X="16" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAEAAAAAAAAAACAAAAAAAAAAAAgAACAA=</HashCode>
+      <FileName>Bank.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Call_to_Kursovaya.MetalFactory" Collapsed="true" HideInheritanceLine="true">
+    <Position X="16" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAEAAAAAAAAAACAAAAAAAAAAAAgAACAA=</HashCode>
+      <FileName>MetalFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Call_to_Kursovaya.OilFactory" Collapsed="true" HideInheritanceLine="true">
+    <Position X="16" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAEAAAAAAAAAACAAAAAAAAAAAAgAACAA=</HashCode>
+      <FileName>OilFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Call_to_Kursovaya.T54" Collapsed="true" HideInheritanceLine="true">
+    <Position X="16" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAgAACAA=</HashCode>
+      <FileName>T54.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Call_to_Kursovaya.TankFighter" Collapsed="true">
+    <Position X="16" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAgAACAA=</HashCode>
+      <FileName>TankFighter.cs</FileName>
+      <NewMemberFileName>Rifleman.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Call_to_Kursovaya.Warship" Collapsed="true" HideInheritanceLine="true">
+    <Position X="16" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAgAACAA=</HashCode>
+      <FileName>Warship.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Call_to_Kursovaya.ActionEventArgs">
+    <Position X="12.75" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAUAAAABABAAAABAACABAAAAAAAAAEgAAAAABAAA=</HashCode>
+      <FileName>EventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Call_to_Kursovaya.Resizing">
+    <Position X="3.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIBQAQAAAAAAAQAAAAAAKAABgAAEAAAA=</HashCode>
+      <FileName>Resizing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Call_to_Kursovaya.Rifleman" Collapsed="true">
+    <Position X="16" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAgAACAA=</HashCode>
+      <FileName>Rifleman.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Call_to_Kursovaya.AI">
+    <Position X="3.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAQAAQAAAAAAgAAAAEAIAAAAAAgACAIAABgCAAAABA=</HashCode>
+      <FileName>AI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Call_to_Kursovaya.GameArgs">
+    <Position X="10.75" Y="10.25" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="Call_to_Kursovaya.GameArgs.Delete" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>GameArgs.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAABABAEAAAAAAABAAAQAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>GameArgs.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="Call_to_Kursovaya.Unit_type">
+    <Position X="14.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAEAAAAIAQAAIAEEAAAAAAUAAgAIAAAAIBQ=</HashCode>
+      <FileName>Unit_type.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
